@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Hristo Bogdanov</h1>
-<h3 align="center">A hardworking freshman from Bulgaria</h3>
+<h3 align="center">A diligent, adaptable, and highly motivated professional with a dynamic and proactive approach.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hristobogdanov" alt="hristobogdanov" /></a> </p>
 
